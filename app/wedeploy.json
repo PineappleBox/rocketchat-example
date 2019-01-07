@@ -1,5 +1,5 @@
 {
-  "id": "chat",
+  "id": "app",
   "image": "rocket.chat:0.73",
   "env": {
     "MONGO_URL": "mongodb://db:27017/rocketchat",
